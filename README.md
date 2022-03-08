@@ -18,6 +18,7 @@ By following these steps:
 3. Enter the tip percentage you would like to leave (or 0 if your service was trash).   
     a. You will be asked if you would like to leave another tip. If you're feeling generous, answer "yes" until your wallet is empty (haha jk). Otherwise, answer "no". 
 4. After answering "no", your bill total will populate. If you split the bill, the amount each person is responsible for paying will also populate. 
+5. If you would like to run the program again for a different meal, or to double check my math, answer "yes". 
 
 
 I hope you find this tool to be of good use! Happy eating! 🍜
